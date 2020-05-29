@@ -1,12 +1,12 @@
-# Execs
+# Runcs
 
-Execs is a Ruby Program what compile and run C# Scripts/Code.
+runcs is a Ruby Program what compile and run C# Scripts/Code.
 
 ## Install
 
-The installation of execs is simple, install it with Ruby Gems
+The installation of runcs is simple, install it with Ruby Gems
 
-``gem install execs``
+``gem install runcs``
 
 if you dont have Ruby Gems, search how to install it on your system.
 
@@ -14,11 +14,11 @@ if you dont have Ruby Gems, search how to install it on your system.
 
 Run execs and pass the file like a argument:
 
-``execs myProgram.cs``
+``runcs myProgram.cs``
 
 if you have classes, pass the classes files like multiple arguments:
 
-``execs myProgram.cs MyClass.cs``
+``runcs myProgram.cs MyClass.cs``
 
 the output file will be ``myProgram.exe``
 
