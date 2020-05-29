@@ -12,7 +12,7 @@ if you dont have Ruby Gems, search how to install it on your system.
 
 ## Usage
 
-Run execs and pass the file like a argument:
+Run runcs and pass the file like a argument:
 
 ``runcs myProgram.cs``
 
