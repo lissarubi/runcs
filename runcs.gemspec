@@ -10,6 +10,7 @@ Gem::Specification.new do |s|
     s.homepage    =
       'https://github.com/edersonferreira/runcs'
     s.license       = 'MIT'
+    s.add_dependency('colorize', '~> 0.8.1')
     s.executables = ['runcs']
   end
   
